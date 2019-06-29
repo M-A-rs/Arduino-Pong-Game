@@ -11,8 +11,8 @@ Pong Game using Arduino UNO, OLED graphic display and a potentiometer.
 https://www.youtube.com/watch?v=kkS6i2qF_Ys
 
 # Developers
-Diany Pressato
-Larissa Freire
-Luana Terra do Couto
-Matheus Araujo
-Tyago Teoi
+Diany Pressato<br />
+Larissa Freire<br />
+Luana Terra do Couto<br />
+Matheus Araujo<br />
+Tyago Teoi<br />

@@ -25,7 +25,7 @@ enum class GameInvariants
 class Paddle
 {
 public:
-    Paddle(int pos): position(pos)
+    explicit Paddle(int pos): position(pos)
     {}
 
     Paddle(): Paddle(0)
@@ -64,7 +64,7 @@ private:
 class Score
 {
 public:
-    Score(int initialScore): score(initialScore)
+    explicit Score(int initialScore): score(initialScore)
     {}
 
     Score(): Score(0)
